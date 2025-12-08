@@ -1,5 +1,5 @@
 # SAM2-AMML
-SAM2-Assisted Multi-Modality Learning for Point Cloud Semantic Segmentation
+SAM2-Assisted Multi-Modality Learning for MLS Point Cloud Semantic Segmentation
 
 # Highlights
 Aiming at the road objects segmentation in street-level scenes, based on SAM2, we develop a specialized mask generation method under the point-to-pixel projection correspondence, which includes boundary-prompts elimination and multi-masks fusion strategies. 
