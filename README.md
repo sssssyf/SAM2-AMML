@@ -9,4 +9,4 @@ To effectively leverage the complementary superiorities of RGB images and solve 
 Extensive experiments demonstrate that our mask generation method based on SAM2 can effectively extract objects of interest in street-level scenes, and SAM2-AMML can effectively enhance the point cloud semantic segmentation of different LiDAR baselines, achieving SOTA results.
 
 # Preview
-The relevant codes will be available here after paper publication
+The relevant codes will be available here after paper publication.
