@@ -10,3 +10,11 @@ Extensive experiments demonstrate that our mask generation method based on SAM2 
 
 # Preview
 The relevant codes will be available here after paper publication.
+
+# Demo
+| Name | Vedio |
+|------|------|
+| KITTI_08_SAM2_MASK | <img src="./demo/output_video_KITTI_08_SAM2_MASK.gif" width="300" alt="演示1"/> |
+| nuScenes_SAM2_MASK | <img src="./demo/output_video_nuScenes_SAM2_MASKS_4000Frames.gif" width="300" alt="演示2"/> |
+| Improved Predictions_SAM2-AMML| <img src="./demo/output_video_SAM2-AMML.gif" width="300" alt="演示3"/> |
+| Improved Predictions_SAM2-AMML_Projection | <img src="./demo/output_video_SAM2-AMML-projection.gif" width="300" alt="演示4"/> |
